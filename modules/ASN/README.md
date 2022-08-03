@@ -41,3 +41,9 @@
   ```
   RULE-SET,https://raw.githubusercontent.com/VirgilClyne/VirgilClyne/main/modules/ASN/ASN.list,DIRECT
   ```
+  *  Quantumult X
+     *  [ASN.snippet](./ASN.snippet?raw=true "🌐 ASN for Mainland China")
+        *  在配置文件中代替`geoip, cn, direct`，分流中添加引用资源。
+  ```
+  https://raw.githubusercontent.com/VirgilClyne/VirgilClyne/main/modules/ASN/ASN.snippet, tag=🌐 ASN for Mainland China, update-interval=86400, opt-parser=false, enabled=true
+  ```
