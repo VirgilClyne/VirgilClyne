@@ -12,10 +12,10 @@
 ---
 ### 独立作品:
 * [🍟 GetSomeFries](https://github.com/VirgilClyne/GetSomeFries): 独立或实验性作品
-  * [通用设置增强插件/模块](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-通用)
-  * [DNS设置增强插件/模块](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS)
-  * [ASN分流插件/模块/规则集](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-ASN)
-  * [HTTPDNS禁止插件/模块/规则集](https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS)
+  * [🍟 Fries: 🌐 通用](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-通用): 通用设置增强插件/模块
+  * [🍟 Fries: 🌐 DNS](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS): DNS设置增强插件/模块
+  * [🍟 Fries: 🌐 ASN](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-ASN): ASN分流插件/模块/规则集
+  * [🍟 Fries: 🚫 HTTPDNS](https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS): HTTPDNS禁止插件/模块/规则集
   * 公共组件:
     * [getENV: 持久化储存读取器](https://github.com/VirgilClyne/GetSomeFries/tree/main/function/getENV)
     * [URL<=>JSON转换器](https://github.com/VirgilClyne/GetSomeFries/tree/main/function/URL)
@@ -23,14 +23,14 @@
 * [ iRingo](https://github.com/VirgilClyne/iRingo): 解锁完整的 Apple功能和集成服务
 * [☁️ Cloudflare](https://github.com/VirgilClyne/Cloudflare): Cloudflare相关模块
 * [🍿️ DualSubs](https://github.com/DualSubs): 流媒体平台字幕增强及双语模块
-  * [🍿️ DualSubs for 🎦 Streaming Media](https://github.com/DualSubs/DualSubs)
-  * [🍿 DualSubs for ▶ YouTube](https://github.com/DualSubs/DualSubs-YouTube)
-  * [🍿 DualSubs for 🇳 Netflix (未发布)](https://github.com/DualSubs/DualSubs-Netflix)
+  * [🍿️ DualSubs: 🎦 Streaming Media](https://github.com/DualSubs/DualSubs)
+  * [🍿 DualSubs: ▶ YouTube](https://github.com/DualSubs/DualSubs-YouTube)
+  * [🍿 DualSubs: 🇳 Netflix (未发布)](https://github.com/DualSubs/DualSubs-Netflix)
   * 公共组件:
     * [WebVTT<=>JSON转换器](https://github.com/DualSubs/WebVTT)
     * [EXTM3U<=>JSON转换器](https://github.com/DualSubs/EXTM3U)
     * [XML<=>JSON转换器](https://github.com/DualSubs/XML)
-* [📺 BiliBili](https://github.com/VirgilClyne/BiliBili): 哔哩哔哩功能增强及自动代理模块
+* [📺 BiliUniverse](https://github.com/BiliUniverse): 哔哩哔哩流媒体平台功能增强系列模块
 <!--
 **VirgilClyne/VirgilClyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
