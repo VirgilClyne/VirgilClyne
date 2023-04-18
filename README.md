@@ -30,7 +30,7 @@
     * [WebVTT<=>JSON转换器](https://github.com/DualSubs/WebVTT)
     * [EXTM3U<=>JSON转换器](https://github.com/DualSubs/EXTM3U)
     * [XML<=>JSON转换器](https://github.com/DualSubs/XML)
-* [📺 BiliUniverse](https://github.com/BiliUniverse): 哔哩哔哩流媒体平台功能增强系列模块
+* [🪐 BiliUniverse](https://github.com/BiliUniverse): 哔哩哔哩流媒体平台功能增强系列模块
 <!--
 **VirgilClyne/VirgilClyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
