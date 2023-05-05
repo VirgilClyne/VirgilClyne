@@ -1,6 +1,3 @@
-### Hi there 👋, I am [Virgil Clyne](https://github.com/VirgilClyne)
-
-
 <a href="https://github.com/VirgilClyne#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=VirgilClyne&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true" align="right" alt="Virgil Clyne's GitHub stats" />
 </a>
@@ -24,13 +21,16 @@
 * [☁️ Cloudflare](https://github.com/VirgilClyne/Cloudflare): Cloudflare相关模块
 * [🍿️ DualSubs](https://github.com/DualSubs): 流媒体平台字幕增强及双语模块
   * [🍿️ DualSubs: 🎦 Streaming Media](https://github.com/DualSubs/DualSubs)
-  * [🍿 DualSubs: ▶ YouTube](https://github.com/DualSubs/DualSubs-YouTube)
-  * [🍿 DualSubs: 🇳 Netflix (未发布)](https://github.com/DualSubs/DualSubs-Netflix)
+  * [🍿 DualSubs: ▶ YouTube](https://github.com/DualSubs/YouTube)
+  * [🍿 DualSubs: 🇳 Netflix (未发布)](https://github.com/DualSubs/Netflix)
   * 公共组件:
     * [WebVTT<=>JSON转换器](https://github.com/DualSubs/WebVTT)
     * [EXTM3U<=>JSON转换器](https://github.com/DualSubs/EXTM3U)
     * [XML<=>JSON转换器](https://github.com/DualSubs/XML)
-* [🪐 BiliUniverse](https://github.com/BiliUniverse): 哔哩哔哩流媒体平台功能增强系列模块
+* [🪐 BiliUniverse 哔哩万象](https://github.com/BiliUniverse): 哔哩哔哩流媒体平台功能增强系列模块
+  * [🪐 BiliUniverse: ⚙ Enhanced](https://github.com/BiliUniverse/Enhanced): 全面自定义哔哩哔哩app主界面
+  * [🪐 BiliUniverse: 🌐 Global](https://github.com/BiliUniverse/Global): 自动识别番剧影视地区并自动分流，自定义搜索各地区结果
+  * [🪐 BiliUniverse: ✈ Roaming (未发布)](https://github.com/BiliUniverse/Roaming)
 <!--
 **VirgilClyne/VirgilClyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
