@@ -32,11 +32,11 @@
 * [🍿️ DualSubs](https://github.com/DualSubs): 流媒体平台字幕增强及双语模块
   * [🍿️ DualSubs: 🎦 Universal](https://github.com/DualSubs/Universal/wiki/🍿-DualSubs:-🎦-Universal)
   * [🍿 DualSubs: ▶ YouTube](https://github.com/DualSubs/YouTube/wiki/🍿-DualSubs:-▶-YouTube)
-  * [🍿 DualSubs: 🇳 Netflix (未发布)](https://github.com/DualSubs/Netflix/wiki/🍿-DualSubs:-🇳-Netflix)
+  * [🍿 DualSubs: 🇳 Netflix](https://github.com/DualSubs/Netflix/wiki/🍿-DualSubs:-🇳-Netflix)
   * 公共组件:
     * [WebVTT<=>JSON转换器](https://github.com/DualSubs/WebVTT)
     * [EXTM3U<=>JSON转换器](https://github.com/DualSubs/EXTM3U)
-    * [XML<=>JSON转换器](https://github.com/DualSubs/XML)
+    * [XML/Plist<=>JSON转换器](https://github.com/DualSubs/XML)
 * [🪐 BiliUniverse 哔哩万象](https://github.com/BiliUniverse): 哔哩哔哩流媒体平台功能增强系列模块
   * [🪐 BiliUniverse: ⚙ Enhanced](https://github.com/BiliUniverse/Universe/wiki/⚙-Enhanced): 全面自定义哔哩哔哩app主界面
   * [🪐 BiliUniverse: 🛡️ ADBlock](https://github.com/BiliUniverse/Universe/wiki/🛡-ADBlock): 自定义去除app广告与界面元素
