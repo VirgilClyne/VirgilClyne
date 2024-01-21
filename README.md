@@ -33,6 +33,7 @@
   * [🍿️ DualSubs: 🎦 Universal](https://github.com/DualSubs/Universal/wiki/🍿-DualSubs:-🎦-Universal)
   * [🍿 DualSubs: ▶ YouTube](https://github.com/DualSubs/YouTube/wiki/🍿-DualSubs:-▶-YouTube)
   * [🍿 DualSubs: 🇳 Netflix](https://github.com/DualSubs/Netflix/wiki/🍿-DualSubs:-🇳-Netflix)
+  * [🍿 DualSubs: 🎵 Spotify](https://github.com/DualSubs/Netflix/wiki/🍿-DualSubs:-🎵-Spotify)
   * 公共组件:
     * [WebVTT<=>JSON转换器](https://github.com/DualSubs/WebVTT)
     * [EXTM3U<=>JSON转换器](https://github.com/DualSubs/EXTM3U)
