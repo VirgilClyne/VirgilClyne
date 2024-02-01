@@ -23,26 +23,26 @@
   * [🍟 Fries: 🌐 DNS](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS): DNS设置增强插件/模块
   * [🍟 Fries: 🌐 ASN](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-ASN): ASN分流插件/模块/规则集
   * [🍟 Fries: 🚫 HTTPDNS](https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS): HTTPDNS禁止插件/模块/规则集
-  * 公共组件:
-    * [getENV: 持久化储存读取器](https://github.com/VirgilClyne/GetSomeFries/tree/main/function/getENV)
-    * [URL<=>JSON转换器](https://github.com/VirgilClyne/GetSomeFries/tree/main/function/URL)
 ## 大型项目:
 * [ iRingo](https://github.com/VirgilClyne/iRingo): 解锁完整的 Apple功能和集成服务
 * [☁️ Cloudflare](https://github.com/VirgilClyne/Cloudflare): Cloudflare相关模块
 * [🍿️ DualSubs](https://github.com/DualSubs): 流媒体平台字幕增强及双语模块
   * [🍿️ DualSubs: 🎦 Universal](https://github.com/DualSubs/Universal/wiki/🍿-DualSubs:-🎦-Universal)
-  * [🍿 DualSubs: ▶ YouTube](https://github.com/DualSubs/YouTube/wiki/🍿-DualSubs:-▶-YouTube)
+  * [🍿 DualSubs: ▶ YouTube (Music)](https://github.com/DualSubs/YouTube/wiki/🍿-DualSubs:-▶-YouTube)
   * [🍿 DualSubs: 🇳 Netflix](https://github.com/DualSubs/Netflix/wiki/🍿-DualSubs:-🇳-Netflix)
-  * [🍿 DualSubs: 🎵 Spotify](https://github.com/DualSubs/Netflix/wiki/🍿-DualSubs:-🎵-Spotify)
+  * [🍿 DualSubs: 🎵 Spotify](https://github.com/DualSubs/Spotify/wiki/🍿-DualSubs:-🎵-Spotify)
   * 公共组件:
     * [WebVTT<=>JSON转换器](https://github.com/DualSubs/WebVTT)
     * [EXTM3U<=>JSON转换器](https://github.com/DualSubs/EXTM3U)
-    * [XML/Plist<=>JSON转换器](https://github.com/DualSubs/XML)
 * [🪐 BiliUniverse 哔哩万象](https://github.com/BiliUniverse): 哔哩哔哩流媒体平台功能增强系列模块
   * [🪐 BiliUniverse: ⚙ Enhanced](https://github.com/BiliUniverse/Universe/wiki/⚙-Enhanced): 全面自定义哔哩哔哩app主界面
   * [🪐 BiliUniverse: 🛡️ ADBlock](https://github.com/BiliUniverse/Universe/wiki/🛡-ADBlock): 自定义去除app广告与界面元素
   * [🪐 BiliUniverse: 🌐 Global](https://github.com/BiliUniverse/Universe/wiki/🌐-Global): 自动识别番剧影视地区并自动分流，自定义搜索各地区结果
   * [🪐 BiliUniverse: ✈ Roaming (未发布)](https://github.com/BiliUniverse/Universe/wiki/✈-Roaming)
+## 公共组件:
+  * [ENV: 平台通用预配环境](https://github.com/NanoCat-Me/ENV)
+  * [URL<=>JSON转换器](https://github.com/NanoCat-Me/URL)
+  * [XML/Plist<=>JSON转换器](https://github.com/NanoCat-Me/XML)
 <!--
 **VirgilClyne/VirgilClyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
