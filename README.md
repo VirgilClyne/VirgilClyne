@@ -11,10 +11,11 @@
 ---
 ## 广而告之
   * 如果您觉得本项目便捷好用
-  * 欢迎关注我的B站直播间支持工作
-  * 每晚19:00(UTC+8)左右开播（大概
-  * [【薯条_Official的直播间-哔哩哔哩直播】](https://b23.tv/1LeNwhE)
-  * [【薯条_Official的个人空间-哔哩哔哩】](https://b23.tv/Z6GIBAE)
+  * 请通过我的爱发电打赏：https://afdian.com/a/HashBrown
+  * ~~欢迎关注我的B站直播间支持工作~~
+  * ~~每晚19:00(UTC+8)左右开播（大概~~
+  * [~~【薯条_Official的直播间-哔哩哔哩直播】~~](https://b23.tv/1LeNwhE)
+  * [~~【薯条_Official的个人空间-哔哩哔哩】~~](https://b23.tv/Z6GIBAE)
 
 ---
 ## 独立作品:
