@@ -25,7 +25,7 @@
 | 推荐 | 推荐 | 推荐 | 兼容 | 兼容 | 部分兼容 |
 | [nsloon.app](https://nsloon.app/) | [nssurge.com](https://nssurge.com/) | [stash.ws](https://stash.ws/) | [egernapp.com](https://egernapp.com/) | N/A | N/A |
 ## 大型项目
-### [ iRingo](https://NSRingo.github.io/): 解锁完整的 Apple功能和集成服务
+### [ iRingo](../../../../NSRingo): 解锁完整的 Apple功能和集成服务
 #### 官方网站: [NSRingo.github.io](https://NSRingo.github.io/)
 #### iOS 18、macOS 15、watchOS 11 及以上
 | [🌤<br/>WeatherKit](https://nsringo.github.io/guide/Weather/weather-kit) | [📍<br/>定位服务](https://nsringo.github.io/guide/GeoServices/location-service) | [🗺️<br/>地图](https://nsringo.github.io/guide/GeoServices/maps) | [~~🟥<br/>Apple智能与Siri~~](https://nsringo.github.io/guide/Siri/apple-intelligence-and-siri) | [📺<br/>TV](https://nsringo.github.io/guide/apple-tv) | [📰<br/>News](https://nsringo.github.io/guide/apple-news) | [~~✈<br/>TestFlight~~](https://nsringo.github.io/guide/test-flight) | [⌚️<br/>WATCH](https://nsringo.github.io/guide/apple-watch) | [🧰<br/>BoxJs](https://nsringo.github.io/guide/box-js) |
@@ -34,20 +34,22 @@
 | [~~🌤<br/>天气~~](https://nsringo.github.io/guide/Weather/weather) | [📍<br/>定位服务](https://nsringo.github.io/guide/GeoServices/location-service) | [🗺️<br/>地图](https://nsringo.github.io/guide/GeoServices/maps) | [~~⭕<br/>Siri与搜索~~](https://nsringo.github.io/guide/Siri/siri-and-search) | [📺<br/>TV](https://nsringo.github.io/guide/apple-tv) | [📰<br/>News](https://nsringo.github.io/guide/apple-news) | [~~🌐<br/>专用代理~~](https://nsringo.github.io/guide/private-relay) | [~~✈<br/>TestFlight~~](https://nsringo.github.io/guide/test-flight) | [⌚️<br/>WATCH](https://nsringo.github.io/guide/apple-watch) | [🧰<br/>BoxJs](https://nsringo.github.io/guide/box-js) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-### [🍿️ DualSubs](https://DualSubs.github.io/): 流媒体平台双语及增强字幕解决方案
+### [🍿️ DualSubs](../../../../DualSubs): 流媒体平台双语及增强字幕解决方案
 #### 官方网站: [DualSubs.github.io](https://DualSubs.github.io/)
 | [🎦<br/>Universal](https://DualSubs.github.io/guide/universal) | [🇳<br/>Netflix](https://DualSubs.github.io/guide/netflix) | [▶️<br/>YouTube (Music)](https://DualSubs.github.io/guide/youtube) | [🎵<br/>Spotify](https://DualSubs.github.io/guide/spotify) || [➕<br/>AddOn](https://DualSubs.github.io/guide/addon) | [🧰<br/>BoxJs](https://DualSubs.github.io/guide/box-js) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 流媒体平台通用 | Netflix 专用 | YouTube (Music) 专用 | Spotify 专用 || 其他插件 | 可视化配置面板 |
 
-### [🪐 BiliUniverse 哔哩万象](../../../../BiliUniverse): 哔哩哔哩功能优化及增强解决方案
+### [🪐 哔哩万象 BiliUniverse](../../../../BiliUniverse): 哔哩哔哩功能优化及增强解决方案
 #### 官方网站: [BiliUniverse.github.io](https://BiliUniverse.github.io/)
 | [⚙<br/>Enhanced](https://Enhanced.BiliUniverse.io) | [🌐<br/>Global](https://Global.BiliUniverse.io) | [🔀<br/>Redirect](https://Redirect.BiliUniverse.io) | [🛡️<br/>ADBlock](https://ADBlock.BiliUniverse.io) | [✈<br/>Roaming](https://Roaming.BiliUniverse.io) | [🧰<br/>BoxJs](https://BoxJs.BiliUniverse.io) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 自定义 app 界面元素 | 自动识别地区限制<br/>自动切换线路<br/>搜索各区结果 | 自动重定向 CDN<br/>让播放更流畅 | 自定义去除 app 广告 | 通过公共解析服务<br/>解除观看地区限制<br/>增强其他功能 | 可视化配置面板 |
 
+### [🌥️ 光耀 Auraflare](../../../../Auraflare): Cloudflare® 资源集成解决方案
+#### 官方网站: [Auraflare.github.io](https://Auraflare.github.io/)
+
 ## 独立作品
-* [☁️ Cloudflare](../../../Cloudflare): Cloudflare相关模块
 * [🍟 GetSomeFries](../../../GetSomeFries): 独立或实验性作品
   * [🍟 Fries: 🌐 通用](../../../GetSomeFries/wiki/🌐-通用): 通用设置增强插件/模块
   * [🍟 Fries: 🌐 DNS](../../../GetSomeFries/wiki/🌐-DNS): DNS设置增强插件/模块
